@@ -1,0 +1,4 @@
+/Users/maryna_petrenko/Documents/AC/teleport/native-script/platforms/android/app/src/main/assets/app/runtime.js
+/Users/maryna_petrenko/Documents/AC/teleport/native-script/platforms/android/app/src/main/assets/app/bundle.js
+/Users/maryna_petrenko/Documents/AC/teleport/native-script/platforms/android/app/src/main/assets/app/vendor.js
+/Users/maryna_petrenko/Documents/AC/teleport/native-script/platforms/android/app/src/main/assets/app/tns-java-classes.js

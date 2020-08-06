@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :nativescript-optimized-with-inspector:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66b6281b07e2edd9a75e09492155f767/nativescript-optimized-with-inspector/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66b6281b07e2edd9a75e09492155f767/nativescript-optimized-with-inspector/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
