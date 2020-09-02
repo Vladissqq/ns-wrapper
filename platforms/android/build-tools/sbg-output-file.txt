@@ -1,1 +1,0 @@
-/Users/maryna_petrenko/Documents/AC/teleport/native-script/platforms/android/app/src/main/java

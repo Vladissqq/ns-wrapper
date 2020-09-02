@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ngsample/app" />
-      <module fileurl="file://$PROJECT_DIR$/ngsample.iml" filepath="$PROJECT_DIR$/ngsample.iml" group="ngsample" />
-    </modules>
-  </component>
-</project>
